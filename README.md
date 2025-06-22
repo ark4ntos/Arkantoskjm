@@ -1,7 +1,7 @@
 # 👀 Arkantos
 **`code newbie, dota player, c# enjoyer`**
 
-![GIF de un octocat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254a3h4dmljbjlud2RtYjZ6djZhZHU2N29uajdjaGp6ZG44dWdoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif?width=200)
+![GIF de un octocat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254a3h4dmljbjlud2RtYjZ6djZhZHU2N29uajdjaGp6ZG44dWdoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif?width=100)
 
 <!--
 **Arkantoskjm/Arkantoskjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
