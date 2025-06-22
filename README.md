@@ -1,6 +1,6 @@
 # 👀 Arkantos
 **`code newbie, dota player, c# enjoyer`**
-![](https://tenor.com/bWSdt.gif)
+<img src="https://tenor.com/bWSdt.gif" alt="Puck" width="300" />
 
 <!--
 **Arkantoskjm/Arkantoskjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
