@@ -1,8 +1,7 @@
 # 👀 Arkantos
 **`code newbie, dota player, c# enjoyer`**
-<p align="left">
+
 ![GIF de un octocat](https://media.giphy.com/media/3orieS4jfHJsKkUlte/giphy.gif)
-</p>
 
 <!--
 **Arkantoskjm/Arkantoskjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
