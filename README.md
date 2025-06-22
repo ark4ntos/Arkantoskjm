@@ -7,7 +7,7 @@
     <img alt="instagram profile" title="Follow my instagram"
       src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50"/></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/></a>
+    <img title="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/></a>
           
 </p>
 <!--
