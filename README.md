@@ -2,7 +2,10 @@
 **`code newbie, dota player, c# enjoyer`**
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254a3h4dmljbjlud2RtYjZ6djZhZHU2N29uajdjaGp6ZG44dWdoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="deving" width="150" />
-
+<p align="left">
+  <a href="https://www.instagram.com/arkantoskjm/">
+    <img alt="instagram profile" title="Follow my instagram"
+      src="https://www.flaticon.com/free-icon/instagram_15713420?term=instagram&page=1&position=13&origin=search&related_id=15713420"/></a>
 <!--
 **Arkantoskjm/Arkantoskjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
