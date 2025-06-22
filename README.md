@@ -1,7 +1,7 @@
 # 👀 Arkantos
 **`code newbie, dota player, c# enjoyer`**
 <p align="left">
-<img src="https://tenor.com/bWSdt.gif" alt="Puck" width="300" />
+![GIF de un octocat](https://media.giphy.com/media/3orieS4jfHJsKkUlte/giphy.gif)
 </p>
 
 <!--
