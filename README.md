@@ -5,7 +5,9 @@
 <p align="left">
   <a href="https://www.instagram.com/arkantoskjm/">
     <img alt="instagram profile" title="Follow my instagram"
-      src="https://www.flaticon.com/free-icon/instagram_15713420?term=instagram&page=1&position=13&origin=search&related_id=15713420"/></a>
+      src="https://hypebot.typepad.com/.a/6a00d83451b36c69e2022ad3acb6f6200b-300wi"/></a>
+
+
 </p>
 <!--
 **Arkantoskjm/Arkantoskjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
