@@ -5,7 +5,7 @@
 <p align="left">
   <a href="https://www.instagram.com/arkantoskjm/">
     <img alt="instagram profile" title="Follow my instagram"
-      src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/></a>
+      src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50"/></a>
 </p>
 <!--
 **Arkantoskjm/Arkantoskjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
