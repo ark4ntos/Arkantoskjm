@@ -9,4 +9,6 @@
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://discord.com/invite/kKSqTm3yRH">
     <img title="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>     
+  <a href="https://www.reddit.com">
+    <img src="https://www.svgrepo.com/show/475675/reddit-color.svg"/></a>
 </p>
