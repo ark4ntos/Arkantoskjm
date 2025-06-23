@@ -3,8 +3,6 @@
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254a3h4dmljbjlud2RtYjZ6djZhZHU2N29uajdjaGp6ZG44dWdoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="deving" width="150" />
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arkantoskjm)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/kKSqTm3yRH)
 <p align="left">
   <a href="https://www.instagram.com/arkantoskjm/">
     <img alt="instagram profile" title="Follow my instagram"
