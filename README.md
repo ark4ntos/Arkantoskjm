@@ -9,7 +9,7 @@
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
     <img title="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/></a>     
 </p>
-![facebook](facebook.com)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <!--
 **Arkantoskjm/Arkantoskjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
