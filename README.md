@@ -12,6 +12,5 @@
   <a href="https://www.reddit.com">
     <img src="https://www.svgrepo.com/show/475675/reddit-color.svg" width="50"/></a>
 </p>
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 <a href="https://www.reddit.com">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
