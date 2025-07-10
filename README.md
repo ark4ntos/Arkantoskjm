@@ -1,11 +1,11 @@
 # 👀 Hello world, I'm Arkantos
 **`code newbie, dota player, c# enjoyer`**
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/arkantoskjm)
+[![Twitch Status](https://img.shields.io/twitch/status/arkantoskjm?style=social)](https://twitch.com/arkantoskjm)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.com/invite/kKSqTm3yRH)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/arkantos)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/arkantoskjm?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/arkantoskjm?style=social)
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254a3h4dmljbjlud2RtYjZ6djZhZHU2N29uajdjaGp6ZG44dWdoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="deving" width="150" />
