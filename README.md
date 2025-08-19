@@ -11,13 +11,14 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254a3h4dmljbjlud2RtYjZ6djZhZHU2N29uajdjaGp6ZG44dWdoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="deving" width="150" />
 <p align="left">
   <a href="https://www.instagram.com/arkantoskjm/">
-    <img alt="instagram profile" title="Follow my instagram"
+    <img alt="Instagram profile" title="Follow my instagram"
       src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://discord.com/invite/kKSqTm3yRH">
-    <img title="discord"
+    <img alt="Discord server" title="discord"
       src="https://custom-icon-badges.demolab.com/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>     
   <a href="https://www.reddit.com">
-    <img src="https://www.svgrepo.com/show/475675/reddit-color.svg" width="50"/></a>
+    <img alt="Reddit"
+      src="https://www.svgrepo.com/show/475675/reddit-color.svg" width="50"/></a>
 </p>
 <a href="https://www.reddit.com">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
